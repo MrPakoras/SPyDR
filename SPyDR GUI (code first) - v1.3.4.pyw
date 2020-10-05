@@ -349,7 +349,7 @@ shbutton.pack(fill=BOTH, expand=1)
 #    else:
 #        quit()
 
-# master.protocol('WM_DELETE_WINDOW',nothing()) #On exit event
+# master.protocol('WM_DELETE_WINDOW',nothing()) #On exit event, save files
 
 
 master.mainloop()
