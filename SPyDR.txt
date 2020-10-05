@@ -1,0 +1,6 @@
+1. Pick parts
+2. Start race
+3. Opponent found  (build opp car)
+4. Race
+5. Cash
+6. Restart

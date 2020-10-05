@@ -1,0 +1,22 @@
+Should do:
+
+> Choose car parts
+> Press start
+> Car built
+> Find opponent
+> Found opponent
+> Start race
+> Race complete
+> Compare results
+> Prize money
+> Reset race
+
+
+
+Actually does:
+
+> Choose car parts
+> Press start
+> Car built
+> Opponent found
+> Finding opponent
